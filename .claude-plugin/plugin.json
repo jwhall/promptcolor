@@ -1,0 +1,9 @@
+{
+  "name": "promptcolor",
+  "displayName": "Prompt Color",
+  "version": "0.1.0",
+  "description": "/promptcolor changes the background color of your own prompt lines in the Claude Code transcript so they are easy to spot while scrolling back.",
+  "author": { "name": "Justin Hall", "email": "jwhall@gmail.com" },
+  "license": "MIT",
+  "repository": "https://github.com/jwhall/promptcolor"
+}
