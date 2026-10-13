@@ -22,7 +22,7 @@ The mod makes no network requests, reads no files, runs no processes, and sends 
 
 ## Install
 
-Install it from the Claude directory once listed, or load it directly for one session with `claude --plugin-dir /path/to/promptcolor`.
+Install it from the Claude directory with `claude plugin install prompt-color@anthropic-plugin-directory` or load it directly for one session with `claude --plugin-dir /path/to/promptcolor`.
 
 ## License
 
